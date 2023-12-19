@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  font-family: normal;
+}
+
+.separador-navbar {
+  background-color: black;
+  color: white;
+  padding-top: 70px;
+  /* Esto establecerá el color de texto en blanco */
+}
